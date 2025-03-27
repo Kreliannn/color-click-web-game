@@ -7,7 +7,7 @@ A simple on player web game
 -  timer - 60 second timer every game
 
 ## 🌍 Live Demo  
-🔗 [Visit the Website](your-website-url) <!-- Replace with your actual website link -->
+🔗 [Visit the Website](color-click.vercel.app) <!-- Replace with your actual website link -->
 
 ## 🎥 Demo Video  
 📹 [Watch on TikTok](your-tiktok-video-url) <!-- Replace with your TikTok video link -->
