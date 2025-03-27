@@ -6,8 +6,7 @@ A simple on player web game
 -  **display highscore** – high score saved.
 -  timer - 60 second timer every game
 
-## 🌍 Live Demo  
-🔗 [Visit the Website](color-click.vercel.app) <!-- Replace with your actual website link -->
+
 
 ## 🎥 Demo Video  
 📹 [Watch on TikTok](your-tiktok-video-url) <!-- Replace with your TikTok video link -->
