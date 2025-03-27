@@ -6,11 +6,12 @@ A simple on player web game
 -  **display highscore** – high score saved.
 -  timer - 60 second timer every game
 
-## 🛠 Technologies Used  
+## 🌍 Live Demo  
+🔗 [Visit the Website](your-website-url) <!-- Replace with your actual website link -->
 
-- **HTML** – Structure of the application  
-- **Bootsrap** – Styling and themes  
-- **JavaScript** – Quiz functionality and theme switching  
+## 🎥 Demo Video  
+📹 [Watch on TikTok](your-tiktok-video-url) <!-- Replace with your TikTok video link -->
+
 
 ## 📸 Preview  
 
