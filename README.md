@@ -1,6 +1,6 @@
 
 #  Color Click
-A simple on player web game 
+A simple one player web game 
 
 ## ✨ Features  
 -  **display highscore** – high score saved.
@@ -9,7 +9,7 @@ A simple on player web game
 
 
 ## 🎥 Demo Video  
-📹 [Watch on TikTok](your-tiktok-video-url) <!-- Replace with your TikTok video link -->
+📹 [Watch on TikTok](https://www.tiktok.com/@krelq/video/7438557880057400584) <!-- Replace with your TikTok video link -->
 
 
 ## 📸 Preview  
